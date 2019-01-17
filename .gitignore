@@ -1,0 +1,14 @@
+
+*~
+TODO
+.*
+*.zip
+*.tar.gz
+*.o
+client/canardage
+server/canardage
+#But gitignore
+!.gitignore
+
+report/
+report/*
